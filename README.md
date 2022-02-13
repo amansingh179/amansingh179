@@ -1,5 +1,5 @@
 ### Hi there 👋, Aman
-#### Coding for life ...❤️
+### Coding for life ...❤️
 ![Coding for life ...❤️](https://www.deltait.co.in/wp-content/uploads/2019/12/website-promotion-company-bg.png)
 
 I'm Aman from India , and i love to do coding.
@@ -13,7 +13,7 @@ Skills: ✨ JS / HTML / CSS/PYTHON/C++/C.
 - ⚡ Fun fact: I don’t need a therapy, I just need to ride my bike. 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>]
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amansingh179)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=amansingh179&show_icons=true&count_private=true)  
