@@ -1,8 +1,8 @@
-### Hi there 👋, Aman
+### Hi there 👋, I'm Aman
 ### Coding for life ...❤️
 ![Coding for life ...❤️](https://www.deltait.co.in/wp-content/uploads/2019/12/website-promotion-company-bg.png)
 
-I'm Aman from India , and i love to do coding.
+I'm Aman from India , and i love to do coding.</br>
 🔥 Web Developer grinding hard to make something cool.
 
 
