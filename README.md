@@ -1,13 +1,10 @@
 <h1 align="center">Hi 👋, I'm Aman</h1>
-<h3 align="center">A passionate Web developer from India</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amansingh179&label=Profile%20views&color=0e75b6&style=flat" alt="amansingh179" /> </p>
+I'm Aman from India , and i love to do coding 
+🔥 Web Developer grinding hard to make something cool.
 
-- 💬 Ask me about **anything, I'm here to help you.**
-
-- 📫 How to reach me **amansingh10179@gmail.com**
-
-- ⚡ Fun fact **I don’t need a therapy, I just need to ride my bike.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
