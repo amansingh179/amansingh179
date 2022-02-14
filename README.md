@@ -28,9 +28,9 @@ Skills: ✨ JS / HTML / CSS/PYTHON/C++/C.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/aman-singh-43948b1bb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aman-singh-43948b1bb" height="30" width="40" /></a>
-<a href="https://instagram.com/__aman.singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__aman.singh" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/amansingh10179" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="amansingh10179" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/aman-singh-43948b1bb" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aman-singh-43948b1bb" height="30" width="40" /></a>
+<a href="https://instagram.com/__aman.singh" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__aman.singh" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/amansingh10179" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="amansingh10179" height="30" width="40" /></a>
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amansingh179&show_icons=true&locale=en&layout=compact" alt="amansingh179" /></p>
