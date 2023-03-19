@@ -16,10 +16,6 @@ Skills: ✨ JS / HTML / CSS/PYTHON/C++/C.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amansingh179)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=amansingh179&show_icons=true&count_private=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=amansingh179)  
-
 ![Profile views](https://gpvc.arturio.dev/amansingh179)  
 
 
