@@ -12,10 +12,6 @@ Skills: ✨ JS / HTML / CSS/PYTHON/C++/C.
 - 📫 How to reach me: amansingh10179@gmail.com 
 - ⚡ Fun fact: I don’t need a therapy, I just need to ride my bike. 
 
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amansingh179)](https://github.com/anuraghazra/github-readme-stats)
-
 ![Profile views](https://gpvc.arturio.dev/amansingh179)  
 
 
