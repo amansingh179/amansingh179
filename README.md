@@ -25,4 +25,4 @@ Skills: ✨ JS / HTML / CSS/PYTHON/C++/C.
 <a href="https://www.hackerearth.com/amansingh10179" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="amansingh10179" height="30" width="40" /></a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amansingh179&show_icons=true&locale=en&layout=compact" alt="amansingh179" /></p>
+
