@@ -6,7 +6,7 @@
 🔥 Web Developer grinding hard to make something cool.
 
 
-Skills: ✨ JS / HTML / CSS/PYTHON/C++/C.
+Skills: ✨ WEB DEVELOPER/PYTHON/C++/C.
 
 - 💬 Ask me about anything, I'm here to help you. 
 - 📫 How to reach me: amansingh10179@gmail.com 
